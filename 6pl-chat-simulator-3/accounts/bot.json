@@ -1,0 +1,10 @@
+{
+  "access_token": "snqrocx225xdpkb5xvfp42zlnfxzfr",
+  "expires_in": 14480,
+  "refresh_token": "npklq4xid70wvwp3owtp7jm7x2977i5zlg6p0agcnxjc1ju46s",
+  "scope": [
+    "chat:edit",
+    "chat:read"
+  ],
+  "token_type": "bearer"
+}

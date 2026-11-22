@@ -1,0 +1,10 @@
+{
+  "access_token": "ftyj59cg4un1shfi6acr8ysxe37j59",
+  "expires_in": 13663,
+  "refresh_token": "sw0ggmf4fvlzae45065sx5vzraowbylg5a2ql7u6o5zenlpvcu",
+  "scope": [
+    "chat:edit",
+    "chat:read"
+  ],
+  "token_type": "bearer"
+}

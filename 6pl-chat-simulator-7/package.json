@@ -1,0 +1,18 @@
+{
+  "name": "6pl-2-chat-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "6PL 2 Twitch chat dashboard",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node --check auth.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
